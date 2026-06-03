@@ -2,8 +2,6 @@
 License addendum - https://github.com/R2AKT/LPT/blob/main/Addendum.txt
 
 # LPT
-LPT module for CPU_8080 board
-
 <img src="LPT_top.png">
 
 LPT (Centrinics) module. For connection to the CPU_8080 processor board - https://github.com/R2AKT/CPU_8080.
