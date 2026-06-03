@@ -6,7 +6,7 @@ LPT module for CPU_8080 board
 
 <img src="LPT_top.png">
 
-LTP (Centrinics) module. For connection to the CPU_8080 processor board - https://github.com/R2AKT/CPU_8080.
+LPT (Centrinics) module. For connection to the CPU_8080 processor board - https://github.com/R2AKT/CPU_8080.
 
 Based on 82C11 (1834VV11).
 
