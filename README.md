@@ -4,7 +4,7 @@ License addendum - https://github.com/R2AKT/LPT/blob/main/Addendum.txt
 # LPT
 <img src="LPT_top.png">
 
-LPT (Centrinics) module. For connection to the CPU_8080 processor board - https://github.com/R2AKT/CPU_8080.
+LPT (Centrinics) module. For Mega-80 (Mega-580) DIY 8-bit micro-computer - https://github.com/R2AKT/Mega-80.
 
 Based on 82C11 (1834VV11).
 
