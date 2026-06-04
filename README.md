@@ -10,7 +10,7 @@ Based on 82C11 (1834VV11).
 
 Status: In production. Not tested.
 
-Модуль LPT (Centrinics). Для подключения к процессорной плате CPU_8080 - https://github.com/R2AKT/CPU_8080.
+Модуль LPT (Centrinics). Для самодельной 8-битной микро-ЭВМ - https://github.com/R2AKT/Mega-80.
 
 На основе 1834ВВ11 (82C11).
 
